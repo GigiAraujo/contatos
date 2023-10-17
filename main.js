@@ -78,4 +78,3 @@ mostrarContatos.addEventListener('click', () =>{
 ocultarContatos.addEventListener('click', ()=>{
     listaContatos.style.display = 'none'
 })
-
